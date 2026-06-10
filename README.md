@@ -22,4 +22,3 @@ Detail-oriented Computer Science graduate with hands-on expertise in networking 
 
 ## Education
 * **Bachelor of Science in Computer Science**
-theme: minimal_config.yml
